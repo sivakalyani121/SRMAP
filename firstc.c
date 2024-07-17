@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-    printf("Welcome to First Project");
+    printf("Welcome to new Project");
 }
